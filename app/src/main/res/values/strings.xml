@@ -4,8 +4,8 @@
     <string name="app_name">Ampel Control</string>
     <string name="app_name_full">Ampel Control - 31C3 Edition</string>
     <string name="ampel_1_name">Stage</string>
-    <string name="ampel_2_name">Traverse</string>
-    <string name="ampel_3_name">Between white screens</string>
+    <string name="ampel_2_name">Rig</string>
+    <string name="ampel_3_name">Nerdarea</string>
 
     <string name="action_about">About</string>
     <string name="title_about">About</string>
