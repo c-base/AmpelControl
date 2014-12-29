@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red_checked">#ffff0000</color>
+    <color name="red_unchecked">#40ff0000</color>
+
+    <color name="yellow_checked">#ffffff00</color>
+    <color name="yellow_unchecked">#40ffff00</color>
+
+    <color name="green_checked">#ff00ff00</color>
+    <color name="green_unchecked">#4000ff00</color>
+
+    <color name="circle_border">#ff404040</color>
+    <color name="button_disabled">@color/circle_border</color>
+    <color name="traffic_light_background">#50000000</color>
+</resources>

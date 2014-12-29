@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".AmpelActivity">
+
+    <ImageButton
+        android:id="@+id/button_server_check"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ic_refresh" />
+
+    <Spinner
+        android:id="@+id/ampel_server"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/button_server_check"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/button_server_check"
+        android:layout_toStartOf="@+id/button_server_check" />
+
+    <TextView
+        android:id="@+id/server_check_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ampel_server"
+        android:layout_marginTop="16dp"
+        android:visibility="gone"
+        tools:text="Server not found"
+        tools:visibility="visible" />
+
+    <LinearLayout
+        android:id="@+id/light_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/server_check_result"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="42dp"
+        android:padding="16dp"
+        android:background="@color/traffic_light_background"
+        android:orientation="vertical">
+
+        <ToggleButton
+            android:id="@+id/button_red"
+            android:layout_width="@dimen/button_size"
+            android:layout_height="@dimen/button_size"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/button_red"
+            android:textOff="@null"
+            android:textOn="@null" />
+
+        <ToggleButton
+            android:id="@+id/button_yellow"
+            android:layout_width="@dimen/button_size"
+            android:layout_height="@dimen/button_size"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/button_yellow"
+            android:textOff="@null"
+            android:textOn="@null" />
+
+        <ToggleButton
+            android:id="@+id/button_green"
+            android:layout_width="@dimen/button_size"
+            android:layout_height="@dimen/button_size"
+            android:layout_marginTop="8dp"
+            android:background="@drawable/button_green"
+            android:textOff="@null"
+            android:textOn="@null" />
+
+    </LinearLayout>
+
+</RelativeLayout>
