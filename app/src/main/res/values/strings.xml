@@ -2,15 +2,15 @@
 <resources>
 
     <string name="app_name">Ampel Control</string>
-    <string name="app_name_full">Ampel Control - 31C3 Edition</string>
-    <string name="ampel_1_name">Stage</string>
-    <string name="ampel_2_name">Rig</string>
+    <string name="app_name_full">Ampel Control - 32C3 Edition</string>
+    <string name="ampel_1_name">Rig (3)</string>
+    <string name="ampel_2_name">Rig (2)</string>
     <string name="ampel_3_name">Nerdarea</string>
 
     <string name="action_about">About</string>
     <string name="title_about">About</string>
     <string name="app_version">Version: %s</string>
-    <string name="app_description">This app allows you to control the traffic lights around the c-base assembly at 31C3.</string>
+    <string name="app_description">This app allows you to control the traffic lights around the c-base assembly at 32C3.</string>
     <string name="credits">Credits\n\nTraffic light API: schwarzmode, uk, mami\nAndroid app: cketti</string>
     <string name="app_version_error">Unknown (well, this shouldn\'t have happened)</string>
 
