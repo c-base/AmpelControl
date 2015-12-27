@@ -13,8 +13,8 @@
    height="500"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="feature_graphic.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,15 +24,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.50107422"
+     inkscape:zoom="1.8046501"
      inkscape:cx="468.49837"
      inkscape:cy="308.51182"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1543"
-     inkscape:window-height="876"
-     inkscape:window-x="57"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
   <metadata
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -111,7 +111,7 @@
          style="font-size:86.60649872px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:Roboto">Ampel Control</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:43.30324936px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:43.30324936px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="49.066978"
        y="973.68915"
        id="text3142"
@@ -120,6 +120,6 @@
          id="tspan3144"
          x="49.066978"
          y="973.68915"
-         style="font-size:49.79873657px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-family:Roboto;-inkscape-font-specification:Roboto Condensed">c-base assembly @ 31C3</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:49.79873657px;font-family:Roboto;-inkscape-font-specification:'Roboto Condensed'">c-base assembly @ 32C3</tspan></text>
   </g>
 </svg>
