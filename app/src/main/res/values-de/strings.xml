@@ -2,15 +2,12 @@
 <resources>
 
     <string name="app_name">Ampel Steuerung</string>
-    <string name="app_name_full">Ampel Steuerung - 32C3 Edition</string>
-    <string name="ampel_1_name">Traverse (3)</string>
-    <string name="ampel_2_name">Traverse (2)</string>
-    <string name="ampel_3_name">Nerdarea</string>
+    <string name="app_name_full">Ampel Steuerung - 33C3 Edition</string>
 
     <string name="action_about">Über</string>
     <string name="title_about">Über</string>
     <string name="app_version">Version: %s</string>
-    <string name="app_description">Diese App erlaubt die Steuerung der Ampeln auf der c-base Assembly beim 32C3.</string>
+    <string name="app_description">Diese App erlaubt die Steuerung der Ampeln im Kidspace beim 33C3.</string>
     <string name="credits">Credits\n\nAmpel API: schwarzmode, uk, mami\nAndroid App: cketti</string>
     <string name="app_version_error">Unbekannt (hoppla, das hätte nicht passieren sollen)</string>
 </resources>
